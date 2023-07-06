@@ -13,7 +13,7 @@
 > How It Works
 
 - Employees of an enterprise can prompt the LLM with relevant data to automate some work.
-- The LLM will utilize a collection of open-source AI models to task dependencies and select relevant AI models, APIs, and code interpreter to complete the work.
+- The LLM will utilize a collection of open-source AI models to task dependencies and select relevant AI models, APIs, web search, and code interpreter to complete the work.
 - The work automation can be saved for repeated usage in the future.
 
 > Where can it be used in?
