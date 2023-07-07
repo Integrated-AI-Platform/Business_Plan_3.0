@@ -2,21 +2,27 @@
 
 > About
 
-- The AI platform for automating internal processes for enterprises.
-- _Versatile as ChatGPT, reliable as Zapier._
+- Our startup provides an advanced AI platform designed to automate internal processes for enterprises.
+- Our platform combines the versatility of ChatGPT with the reliability of Zapier.
 
 > General Overview
 
-- Secure access to a suite of AI tools through self-hosting on the cloud.
-- Offers internal process automation using LLM (Large Language Model).
+- Gain secure access to a comprehensive suite of AI tools by self-hosting on the cloud.
+- Leverage the power of our Large Language Model (LLM) to streamline internal process automation.
 
 > How It Works
 
-- Employees of an enterprise can prompt the LLM with relevant data to automate some work.
-- The LLM will set-up task dependencies and select relevant AI models, APIs, web searches, and code interpreter to complete the work.
-- The work automation can be saved for repeated usage in the future.
+- Empower your employees to initiate automation by prompting our LLM with relevant data.
+- Our LLM intelligently configures task dependencies and selects the appropriate AI models, APIs, web searches, and code interpreters to efficiently complete the assigned work.
+- Automation can be saved and reused for future efficiency gains.
 
-> Where can it be used in?
+> Benefits of Process Automation
 
-- It can be used to automate internal processes in any department across an enterprise, such as Marketing, HR, and Engineering.
-- The platform will be specifically effective in areas with heavy language-dependency, such as Marketing.
+- Enhanced Employee Productivity: Our AI-powered automation boosts productivity by automating a significant portion of employees' work, enabling them to accomplish more efficiently.
+- Cost Savings through Efficiency: Automating substantial work portions allows enterprises to function with smaller teams, resulting in cost savings without compromising performance.
+- Accelerated Work Cycles: AI-enabled automation completes tasks at a significantly faster pace, enabling enterprises to achieve quicker project cycles.
+
+> Where Can It Be Used?
+
+- Our platform is versatile and can automate internal processes across all departments of an enterprise, including Marketing, HR, and Engineering.
+- It excels particularly in language-intensive areas like Marketing.
